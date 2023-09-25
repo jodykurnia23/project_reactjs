@@ -1,9 +1,9 @@
-import Routing from "./Routing";
+import Redux from "./Redux";
 
 function App() {
   return (
     <div className="App">
-      <Routing />
+      <Redux />
     </div>
   );
 }
